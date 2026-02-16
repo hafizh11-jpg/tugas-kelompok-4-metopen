@@ -1,4 +1,4 @@
-## 📄 README.md
+## 📄 Aplikasi Sistem Monitoring Resource Server Berbasis CLI dengan Notifikasi Real-Time
 
 ```markdown
 # 🖥️ Server Monitor Pro
